@@ -1,2 +1,2 @@
-print("anubhab is a good boy")
+print("anubhab is a boy")
 
